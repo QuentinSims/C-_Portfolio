@@ -1,0 +1,13 @@
+C:\Users\ShopDemo\source\repos\AreaOfRoom\bin\Debug\netcoreapp3.1\AreaOfRoom.exe
+C:\Users\ShopDemo\source\repos\AreaOfRoom\bin\Debug\netcoreapp3.1\AreaOfRoom.deps.json
+C:\Users\ShopDemo\source\repos\AreaOfRoom\bin\Debug\netcoreapp3.1\AreaOfRoom.runtimeconfig.json
+C:\Users\ShopDemo\source\repos\AreaOfRoom\bin\Debug\netcoreapp3.1\AreaOfRoom.runtimeconfig.dev.json
+C:\Users\ShopDemo\source\repos\AreaOfRoom\bin\Debug\netcoreapp3.1\AreaOfRoom.dll
+C:\Users\ShopDemo\source\repos\AreaOfRoom\bin\Debug\netcoreapp3.1\AreaOfRoom.pdb
+C:\Users\ShopDemo\source\repos\AreaOfRoom\obj\Debug\netcoreapp3.1\AreaOfRoom.csproj.AssemblyReference.cache
+C:\Users\ShopDemo\source\repos\AreaOfRoom\obj\Debug\netcoreapp3.1\AreaOfRoom.AssemblyInfoInputs.cache
+C:\Users\ShopDemo\source\repos\AreaOfRoom\obj\Debug\netcoreapp3.1\AreaOfRoom.AssemblyInfo.cs
+C:\Users\ShopDemo\source\repos\AreaOfRoom\obj\Debug\netcoreapp3.1\AreaOfRoom.csproj.CoreCompileInputs.cache
+C:\Users\ShopDemo\source\repos\AreaOfRoom\obj\Debug\netcoreapp3.1\AreaOfRoom.dll
+C:\Users\ShopDemo\source\repos\AreaOfRoom\obj\Debug\netcoreapp3.1\AreaOfRoom.pdb
+C:\Users\ShopDemo\source\repos\AreaOfRoom\obj\Debug\netcoreapp3.1\AreaOfRoom.genruntimeconfig.cache
